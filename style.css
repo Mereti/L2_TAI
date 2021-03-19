@@ -2,7 +2,7 @@
          background-color:#7e7191;
          margin-left: 40px;
          margin-right: 40px;
-         margin-top:2.5%;
+
          color: white;
     }
     .title{
@@ -45,8 +45,20 @@
     container{
         height:100%;
     }
-    .navbar{
-        color: white;
+    a{
+       color: white;
+       margin-right: 1%;
+       margin-top:50%;
+       text-decoration:none;
+       font-size: 20px;
+    }
+    nav{
+        padding-top:90px;
+        margin-left:5%;
+    }
+    .stylFoto{
+        height: 200px;
         background-color:#0C011C;
+
     }
 
