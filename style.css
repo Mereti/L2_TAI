@@ -45,3 +45,7 @@
     container{
         height:100%;
     }
+    .blackAndWhite{
+        height: 20%;
+        background-color: white;
+    }
