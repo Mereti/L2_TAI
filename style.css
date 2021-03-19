@@ -35,3 +35,13 @@
     	width: 100px;
     	height: auto;
     }
+    .footerClass{
+        text-align: center;
+        background:#0C011C;
+        color:white;
+        width: 100%;
+        height:20%;
+    }
+    container{
+        height:100%;
+    }
