@@ -8,9 +8,9 @@ function buff(val){
   return buff;
 }
 
-for (var i = 0; i < 11; i++) {
+for (let i = 0; i < 11; i++) {
 
-    for (var j = 0; j < 11; j++) {
+    for (let j = 0; j < 11; j++) {
 
         if(i == 0 && j > 0){
           result += '[' + j + ']' + buff((j+'').length+2);

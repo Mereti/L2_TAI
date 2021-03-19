@@ -45,7 +45,8 @@
     container{
         height:100%;
     }
-    .blackAndWhite{
-        height: 20%;
-        background-color: white;
+    .navbar{
+        color: white;
+        background-color:#0C011C;
     }
+
