@@ -61,4 +61,11 @@
         background-color:#0C011C;
 
     }
+    .scroll {
+        position: fixed;
+        bottom: 30px;
+        right: 30px;
+        display: none;
+    }
+
 
